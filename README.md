@@ -1,20 +1,20 @@
 ## stanCode Projects
 Hi!\
-This repository holds my programming projects completed during stanCode Python course!
+This repository holds my programming projects completed during stanCode Python courses!
 
-Watch some sample videos [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)!
+Watch some sample videos [HERE](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)!
 
 ## Project Codes
-* [anagram](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/anagram)
+* [Anagram](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/anagram)
   * algorithm
-* [boggle](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/boggle)
+* [Boggle](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/boggle)
   * recursive functions
-* [breakout](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/breakout)
+* [Breakout](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/breakout)
   * animation & game design
-* [hangman](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/hangman)
-  * python semantics & syntax
-* [linked list](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/linked_list)
+* [Hangman](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/hangman)
+  * Python semantics & syntax
+* [Linked list](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/linked_list)
   * data structure
-* [my drawing](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/my_drawing)
-* [my photoshop](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/my_photoshop)
+* [My drawing](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/my_drawing)
+* [MyPhotoshop](https://github.com/lupeiyi23/stanCode/tree/main/GitHub/my_photoshop)
   * image processing
